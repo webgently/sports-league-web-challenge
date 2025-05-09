@@ -19,7 +19,8 @@ module.exports = {
         'table': {
           'header': '#E4EDF2',
           'border': '#E4EDF2',
-          'row-even': '#F6F7F7'
+          'row-even': '#F6F7F7',
+          'special-text': '#025FEB'
         },
         'footer': {
           'text': '#4B5C68',
@@ -32,7 +33,7 @@ module.exports = {
       fontSize: {
         'menu': ['16px', '24px'],
         'heading': ['24px', '32px'],
-        'table-header': ['12px', '16px'],
+        'th': ['12px', '16px'],
         'table-cell': ['14px', '20px'],
         'table-cell-bold': ['16px', '24px'],
       },
